@@ -1,2 +1,2 @@
 # Bot-Playground
-A set of interactive bots built with OpenAI GPT models, featuring joke-telling, standup comedy, weather updates, and customer support functionality.
+Collection of interactive bots using OpenAI GPT models, including joke, standup, weather, and customer support bots with API integration and asynchronous handling.
