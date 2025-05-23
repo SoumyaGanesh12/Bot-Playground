@@ -16,13 +16,13 @@ A simple bot that tells jokes when prompted by the user.
 - Run `npm start` to begin interacting with the JokeBot.
 - Type your message and enjoy a joke when you ask for one.
 
-**Sample Input and Output:**
-You: tell me a joke
-AI: Why couldn't the bicycle stand up by itself? Because it was two-tired!
-You: What is the capital of france?
-AI: Why did the French chef get fat? Because every time he makes crepes, he gains a ton of weight!
-You: x
-AI: Goodbye!
+**Sample Input and Output:**    
+You: tell me a joke    
+AI: Why couldn't the bicycle stand up by itself? Because it was two-tired!    
+You: What is the capital of france?    
+AI: Why did the French chef get fat? Because every time he makes crepes, he gains a ton of weight!    
+You: x    
+AI: Goodbye!    
 
 ### 2. **StandUpComedianBot**
 A witty bot that delivers short, humorous responses in the style of a standup comedian.
@@ -36,24 +36,24 @@ A witty bot that delivers short, humorous responses in the style of a standup co
 - Run `npm run jokerbot` to start the StandUpComedianBot.
 - Engage in a conversation, and ask for a joke to hear some standup comedy.
 
-**Sample Input and Output:**
-You: what happened in paris today?
-Bot: I'm not sure, what happened in Paris today?
-Usage: 84 tokens used
-You: why did chickens cross the road?
-Bot: To get to the other side!
-Usage: 106 tokens used
-You: why did it rain yesterday?
-Bot: Because the sky had a leak!
-Usage: 127 tokens used
-You: capital of france?
-Bot: Paris, the city of love and lights!
-Usage: 148 tokens used
-You: why did you answer?
-Bot: Because I couldn't resist trying to make you smile!
-Usage: 172 tokens used
-You: x
-Bot: Goodbye!
+**Sample Input and Output:**    
+You: What I should have today for lunch?    
+Bot: Whatever you choose, just make sure it's not a missed meal!    
+Usage: 85 tokens used    
+You: Why did chickens cross the road?    
+Bot: To get to the other side!    
+Usage: 106 tokens used    
+You: Why did it rain yesterday?    
+Bot: Because the sky had a leak!    
+Usage: 127 tokens used    
+You: What is the capital of france?    
+Bot: Paris, the city of love and lights!    
+Usage: 148 tokens used    
+You: Why did you answer?    
+Bot: Because I couldn't resist trying to make you smile!    
+Usage: 172 tokens used    
+You: x    
+Bot: Goodbye!    
 
 ### 3. **WeatherBot**
 A bot that provides weather information for any given location using the OpenWeather API.
@@ -68,14 +68,16 @@ A bot that provides weather information for any given location using the OpenWea
 - Type a city (e.g., "Paris, France") to get the current weather.
 - Exit the conversation by typing 'x'.
 
-**Sample Input and Output:**
-Bot: How can I help you?
-You: what is weather in paris?
-Bot: The current weather in Paris is 18°C with a clear sky.
-You: how about india?
-Bot: The current weather in India is 20°C with light rain.
-You: x
-Goodbye!
+**Sample Input and Output:**    
+Bot: How can I help you?    
+You: What is weather in paris?    
+Bot: The current weather in Paris is 18°C with a clear sky.    
+You: How about india?    
+Bot: The current weather in India is 20°C with light rain.    
+You: Should I take umbrella today since I am travelling to Boston?    
+Bot: It looks like there are broken clouds in Boston with a temperature of 13°C. While there is no specific mention of precipitation, it's always a good idea to have an umbrella handy when traveling, especially if you want to be prepared for any unexpected changes in the weather.    
+You: x    
+Goodbye!    
 
 ### 4. **CustomerSupportBot**
 A customer support bot for ABC Shoe Company, capable of answering queries based on the FAQ document provided.
@@ -91,17 +93,17 @@ A customer support bot for ABC Shoe Company, capable of answering queries based 
 - Ask questions related to ABC Shoe Company (e.g., "What is your return policy?").
 - Exit the conversation by typing 'X'.
 
-**Sample Input and Output:**
-You: what is the return policy
-assistant messages: The return policy of ABC Shoe Company allows for returns within 30 days of purchase, provided that the shoes are in their original condition and packaging. If you have any further questions about the return policy or need assistance with a return, please feel free to ask!
-You: how should i contact them?
-assistant messages: You can contact ABC Shoe Company by sending an email to customer service at customer-service@abcshoes.com, or by calling them at 123-456-7890. If you require any additional assistance or have further inquiries, please let me know!
-You: is it open now?
-assistant messages: The online store of ABC Shoe Company is open 24/7, so you can browse and shop at any time. However, if you are referring to the physical stores, they are open from 9 AM to 8 PM, Monday to Saturday. If you have any other questions or need assistance, feel free to ask!
-You: do they have discounts?
-assistant messages: Yes, ABC Shoe Company has a loyalty program where customers can earn points with each purchase, and these points are redeemable for discounts. If you have any more questions about their discounts or anything else, please feel free to ask!
-You: x
-Goodbye!
+**Sample Input and Output:**    
+You: What is the return policy?    
+assistant messages: The return policy of ABC Shoe Company allows for returns within 30 days of purchase, provided that the shoes are in their original condition and packaging. If you have any further questions about the return policy or need assistance with a return, please feel free to ask!    
+You: How should I contact them?    
+assistant messages: You can contact ABC Shoe Company by sending an email to customer service at customer-service@abcshoes.com, or by calling them at 123-456-7890. If you require any additional assistance or have further inquiries, please let me know!    
+You: Is it open now?    
+assistant messages: The online store of ABC Shoe Company is open 24/7, so you can browse and shop at any time. However, if you are referring to the physical stores, they are open from 9 AM to 8 PM, Monday to Saturday. If you have any other questions or need assistance, feel free to ask!    
+You: Do they provide any discounts?    
+assistant messages: Yes, ABC Shoe Company has a loyalty program where customers can earn points with each purchase, and these points are redeemable for discounts. If you have any more questions about their discounts or anything else, please feel free to ask!    
+You: x    
+Goodbye!    
 
 ## Installation
 
